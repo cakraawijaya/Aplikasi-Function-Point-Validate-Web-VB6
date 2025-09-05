@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Desktop-light.svg?style=flat&logo=dotnet&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Aplikasi-Function-Point-Validate-Web-VB6
+# Aplikasi Function Point - Validate Web - VB6
 <strong>Software Engineering Assignment</strong><br> 
 Create an application to calculate the feasibility value of a website using the Function Point method in the realm of Software Metric.
 
